@@ -1,0 +1,6 @@
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_3\EmployeeCollectionsTest\EmployeeCollectionsTest\bin\Debug\EmployeeCollectionsTest.exe.config
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_3\EmployeeCollectionsTest\EmployeeCollectionsTest\bin\Debug\EmployeeCollectionsTest.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_3\EmployeeCollectionsTest\EmployeeCollectionsTest\bin\Debug\EmployeeCollectionsTest.pdb
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_3\EmployeeCollectionsTest\EmployeeCollectionsTest\obj\Debug\EmployeeCollectionsTest.csproj.CoreCompileInputs.cache
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_3\EmployeeCollectionsTest\EmployeeCollectionsTest\obj\Debug\EmployeeCollectionsTest.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_3\EmployeeCollectionsTest\EmployeeCollectionsTest\obj\Debug\EmployeeCollectionsTest.pdb

@@ -1,0 +1,7 @@
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_8\CustomerComm\CustomerComm\bin\Debug\CustomerComm.exe.config
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_8\CustomerComm\CustomerComm\bin\Debug\CustomerComm.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_8\CustomerComm\CustomerComm\bin\Debug\CustomerComm.pdb
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_8\CustomerComm\CustomerComm\obj\Debug\CustomerComm.csprojAssemblyReference.cache
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_8\CustomerComm\CustomerComm\obj\Debug\CustomerComm.csproj.CoreCompileInputs.cache
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_8\CustomerComm\CustomerComm\obj\Debug\CustomerComm.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_8\CustomerComm\CustomerComm\obj\Debug\CustomerComm.pdb

@@ -1,0 +1,6 @@
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_1\CalculatorNUnit\CalculatorNUnit\bin\Debug\CalculatorNUnit.exe.config
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_1\CalculatorNUnit\CalculatorNUnit\bin\Debug\CalculatorNUnit.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_1\CalculatorNUnit\CalculatorNUnit\bin\Debug\CalculatorNUnit.pdb
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_1\CalculatorNUnit\CalculatorNUnit\obj\Debug\CalculatorNUnit.csproj.CoreCompileInputs.cache
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_1\CalculatorNUnit\CalculatorNUnit\obj\Debug\CalculatorNUnit.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_1\CalculatorNUnit\CalculatorNUnit\obj\Debug\CalculatorNUnit.pdb

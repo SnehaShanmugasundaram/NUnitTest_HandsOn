@@ -1,0 +1,6 @@
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_7\CalculatorDivideException\CalculatorDivideException\bin\Debug\CalculatorDivideException.exe.config
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_7\CalculatorDivideException\CalculatorDivideException\bin\Debug\CalculatorDivideException.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_7\CalculatorDivideException\CalculatorDivideException\bin\Debug\CalculatorDivideException.pdb
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_7\CalculatorDivideException\CalculatorDivideException\obj\Debug\CalculatorDivideException.csproj.CoreCompileInputs.cache
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_7\CalculatorDivideException\CalculatorDivideException\obj\Debug\CalculatorDivideException.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_7\CalculatorDivideException\CalculatorDivideException\obj\Debug\CalculatorDivideException.pdb

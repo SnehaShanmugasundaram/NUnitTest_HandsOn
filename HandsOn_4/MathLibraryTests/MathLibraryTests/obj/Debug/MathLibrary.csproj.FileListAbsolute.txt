@@ -1,0 +1,6 @@
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_4\MathLibraryTests\MathLibraryTests\bin\Debug\MathLibraryTests.exe.config
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_4\MathLibraryTests\MathLibraryTests\bin\Debug\MathLibraryTests.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_4\MathLibraryTests\MathLibraryTests\bin\Debug\MathLibraryTests.pdb
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_4\MathLibraryTests\MathLibraryTests\obj\Debug\MathLibrary.csproj.CoreCompileInputs.cache
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_4\MathLibraryTests\MathLibraryTests\obj\Debug\MathLibraryTests.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_4\MathLibraryTests\MathLibraryTests\obj\Debug\MathLibraryTests.pdb

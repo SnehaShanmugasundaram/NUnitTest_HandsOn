@@ -1,0 +1,7 @@
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_9\PlayerManagerTest\PlayerManagerTest\bin\Debug\PlayerManagerTest.exe.config
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_9\PlayerManagerTest\PlayerManagerTest\bin\Debug\PlayerManagerTest.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_9\PlayerManagerTest\PlayerManagerTest\bin\Debug\PlayerManagerTest.pdb
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_9\PlayerManagerTest\PlayerManagerTest\obj\Debug\PlayerManagerTest.csprojAssemblyReference.cache
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_9\PlayerManagerTest\PlayerManagerTest\obj\Debug\PlayerManagerTest.csproj.CoreCompileInputs.cache
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_9\PlayerManagerTest\PlayerManagerTest\obj\Debug\PlayerManagerTest.exe
+C:\Users\892772\OneDrive - Cognizant\Documents\NUnit_HandsOn\HandsOn_9\PlayerManagerTest\PlayerManagerTest\obj\Debug\PlayerManagerTest.pdb
